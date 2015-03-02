@@ -1,0 +1,21 @@
+c:\users\mishka\documents\visual studio 2013\Projects\NetWorkAnalysisHW2\NetWorkAnalysisHW2\bin\Debug\NetWorkAnalysisHW2.exe.config
+C:\Users\Michael\Desktop\NetWorkAnalysisHW2\NetWorkAnalysisHW2\bin\Debug\NetWorkAnalysisHW2.exe.config
+C:\Users\Michael\Desktop\NetWorkAnalysisHW2\NetWorkAnalysisHW2\bin\Debug\NetWorkAnalysisHW2.exe
+C:\Users\Michael\Desktop\NetWorkAnalysisHW2\NetWorkAnalysisHW2\bin\Debug\NetWorkAnalysisHW2.pdb
+C:\Users\Michael\Desktop\NetWorkAnalysisHW2\NetWorkAnalysisHW2\obj\Debug\NetWorkAnalysisHW2.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\NetWorkAnalysisHW2\NetWorkAnalysisHW2\obj\Debug\NetWorkAnalysisHW2.exe
+C:\Users\Michael\Desktop\NetWorkAnalysisHW2\NetWorkAnalysisHW2\obj\Debug\NetWorkAnalysisHW2.pdb
+C:\Users\Michael\Desktop\NetWorkAnalysisHW2\NetWorkAnalysisHW2\bin\Debug\EPPlus.dll
+C:\Users\Michael\Desktop\NetWorkAnalysisHW2\NetWorkAnalysisHW2\bin\Debug\MathNet.Numerics.dll
+C:\Users\Michael\Desktop\NetWorkAnalysisHW2\NetWorkAnalysisHW2\bin\Debug\EPPlus.xml
+C:\Users\Michael\Desktop\NetWorkAnalysisHW2\NetWorkAnalysisHW2\bin\Debug\MathNet.Numerics.xml
+C:\Users\Michael\Desktop\לימודים\NetWorkAnalysisHW2\NetWorkAnalysisHW2\bin\Debug\NetWorkAnalysisHW2.exe.config
+C:\Users\Michael\Desktop\לימודים\NetWorkAnalysisHW2\NetWorkAnalysisHW2\obj\Debug\NetWorkAnalysisHW2.exe
+C:\Users\Michael\Desktop\לימודים\NetWorkAnalysisHW2\NetWorkAnalysisHW2\obj\Debug\NetWorkAnalysisHW2.pdb
+C:\Users\Michael\Desktop\לימודים\NetWorkAnalysisHW2\NetWorkAnalysisHW2\bin\Debug\NetWorkAnalysisHW2.exe
+C:\Users\Michael\Desktop\לימודים\NetWorkAnalysisHW2\NetWorkAnalysisHW2\bin\Debug\NetWorkAnalysisHW2.pdb
+C:\Users\Michael\Desktop\לימודים\NetWorkAnalysisHW2\NetWorkAnalysisHW2\bin\Debug\EPPlus.dll
+C:\Users\Michael\Desktop\לימודים\NetWorkAnalysisHW2\NetWorkAnalysisHW2\bin\Debug\MathNet.Numerics.dll
+C:\Users\Michael\Desktop\לימודים\NetWorkAnalysisHW2\NetWorkAnalysisHW2\bin\Debug\EPPlus.xml
+C:\Users\Michael\Desktop\לימודים\NetWorkAnalysisHW2\NetWorkAnalysisHW2\bin\Debug\MathNet.Numerics.xml
+C:\Users\Michael\Desktop\לימודים\NetWorkAnalysisHW2\NetWorkAnalysisHW2\obj\Debug\NetWorkAnalysisHW2.csprojResolveAssemblyReference.cache
